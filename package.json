@@ -1,0 +1,43 @@
+{
+    "name": "data-engineering-extension-pack",
+    "displayName": "Data Engineering Extension Pack",
+    "description": "Some of the Extension I most use to help who wants Develop as a Data Engineering",
+    "version": "1.0.2",
+    "publisher": "guilhermelis",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GuilhermeLis/data-engineering-extension-pack"
+      },
+      "keywords": [
+        "Data Engineering",
+        "Python"
+      ],
+    "extensionPack": [ 
+        "ms-azuretools.vscode-docker",
+        "GitHub.github-vscode-theme",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "ms-python.isort",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "MS-vsliveshare.vsliveshare",
+        "ms-vscode.makefile-tools",
+        "PKief.material-icon-theme",
+        "MS-CEINTL.vscode-language-pack-pt-BR",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "Gruntfuggly.todo-tree",
+        "redhat.vscode-yaml"
+
+    ]
+}
